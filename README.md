@@ -2,8 +2,8 @@
 
 >Tata Cliq (stylised as Tata CLiQ) is an Indian e-commerce company based in Mumbai, India. It is owned by Tata Digital Limited, of Tata Group. TataCLiQ operates in categories such as Electronics, Fashion, Footwear and Accessories.
 
->Link to the original site: "https://www.tatacliq.com/"
->Our site is deployed here https://tatacliqclone.netlify.app// Please Check it out
+>Link to the original site: "https://www.tatacliq.com/"                                         
+>Our site is deployed here "https://tatacliqclone.netlify.app/" Please Check it out
 
 ***Project_Objective:***
 >Our objective is to replicate the original site with all the functionalities and design elements. We aim to create the best clone of the website using the skills we have learnt through Masai School.
